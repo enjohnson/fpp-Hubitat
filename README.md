@@ -8,7 +8,7 @@ NOTE: This currently uses the SmartThings groovy IDE, which is said to be going 
 
 ## Installation
 In fpp, go to Content Setup, Plugin Manager and paste the following URL in the box and click "Retrieve Plugin Info":
-`https://raw.githubusercontent.com/joeharrison714/fpp-smartthings-plugin/master/pluginInfo.json`
+`https://raw.githubusercontent.com/enjohnson/fpp-Hubitat-plugin/master/pluginInfo.json`
 
 ## Setup
 ### Install SmartApp
