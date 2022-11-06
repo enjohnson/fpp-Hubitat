@@ -1,5 +1,5 @@
 {
-	"repoName": "fpp-Hubitat-plugin",
+	"repoName": "fpp-Hubitat",
 	"name": "Hubitat for FPP",
 	"author": "Joe Harrison (joeharrison714) Hubitat update enjohnson",
 	"description": "This allows you to control Hubitat devices via commands in FPP. Adapted from fpp-smartthings-plugin",
